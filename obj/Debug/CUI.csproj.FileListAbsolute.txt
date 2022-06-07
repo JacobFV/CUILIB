@@ -1,0 +1,5 @@
+C:\Users\Jacob\Documents\Visual Studio 2015\Projects\CUI\CUI\bin\Debug\CUI.dll
+C:\Users\Jacob\Documents\Visual Studio 2015\Projects\CUI\CUI\bin\Debug\CUI.pdb
+C:\Users\Jacob\Documents\Visual Studio 2015\Projects\CUI\CUI\obj\Debug\CUI.csprojResolveAssemblyReference.cache
+C:\Users\Jacob\Documents\Visual Studio 2015\Projects\CUI\CUI\obj\Debug\CUI.dll
+C:\Users\Jacob\Documents\Visual Studio 2015\Projects\CUI\CUI\obj\Debug\CUI.pdb
